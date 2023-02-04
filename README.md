@@ -1,4 +1,4 @@
-<H1 align="center">Fire Detection using YOLOv8</H1>
+<H1 align="center">Automatic Number Plate Detection and Recognition using YOLOv8</H1>
 
 
 ## Steps to run Code
