@@ -41,11 +41,11 @@ gdown "https://drive.google.com/uc?id=1P-oVR0J35Dw40lzw47sE19oADSW-tyb1&confirm=
 ### RESULTS
 
 #### Licence Plate  Detection and Recognition  
-![](./figure1.png)
+![](./ultralytics/figure1.png)
 
 #### Licence Plate  Detection and Recognition
 
-![](./figure3.png)
+![](./ultralytics/figure3.png)
 
 ### Watch the Complete Step by Step Explanation
 
