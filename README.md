@@ -5,11 +5,11 @@
 
 - Clone the repository
 ```
-git clone https://github.com/MuhammadMoinFaisal/FireDetectionYOLOv8.git
+git clone https://github.com/MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8.git
 ```
 - Goto the cloned folder.
 ```
-cd FireDetectionYOLOv8
+cd Automatic_Number_Plate_Detection_Recognition_YOLOv8
 ```
 - Install the dependecies
 ```
@@ -25,26 +25,25 @@ cd ultralytics/yolo/v8/detect
 
 - Downloading a Weights from the Google Drive
 ```
-gdown "https://drive.google.com/uc?id=1dCMIamv2XI7xx8ExWNXswDRBfvHhSKfH&confirm=t"
+gdown "https://drive.google.com/uc?id=1dIyJooVaowaNUj0R1Q-HUnu-utiGsEj8&confirm=t"
 ```
 - Downloading a Sample Video from the Google Drive
 ```
-gdown "https://drive.google.com/uc?id=1w0SLc5DqdY4s2KRQ9rw944_dx2UwRk5H&confirm=t"
-gdown "https://drive.google.com/uc?id=1AVDY5a13cGdTd_0Wj1p93_xiFFEBcxIN&confirm=t"
+gdown "https://drive.google.com/uc?id=1P-oVR0J35Dw40lzw47sE19oADSW-tyb1&confirm=t"
 
 ```
 - Run the code with mentioned command below.
 ```
-!python predict.py model='best.pt' source='forestfire4.mp4'
+!python predict.py model='best.pt' source='demo.mp4'
 ```
 
 
 ### RESULTS
 
-#### Fire Detection 
+#### Licence Plate  Detection and Recognition  
 ![](./figure1.png)
 
-#### Fire Detection
+#### Licence Plate  Detection and Recognition
 
 ![](./figure3.png)
 
