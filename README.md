@@ -49,8 +49,8 @@ gdown "https://drive.google.com/uc?id=1P-oVR0J35Dw40lzw47sE19oADSW-tyb1&confirm=
 
 ### Watch the Complete Step by Step Explanation
 
-- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/watch?v=hQyG5qf9TB0&t=5s)
+- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/watch?v=lkAJBSmIL50&t=5s)
 
 
-[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/hQyG5qf9TB0/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=hQyG5qf9TB0))
+[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/lkAJBSmIL50/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=lkAJBSmIL50))
 
