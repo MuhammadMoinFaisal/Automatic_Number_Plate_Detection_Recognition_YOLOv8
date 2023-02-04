@@ -37,6 +37,14 @@ gdown "https://drive.google.com/uc?id=1P-oVR0J35Dw40lzw47sE19oADSW-tyb1&confirm=
 !python predict.py model='best.pt' source='demo.mp4'
 ```
 
+- To read the licence plate, download the updated predict.py file from the google drive and just run the script
+```
+!gdown "https://drive.google.com/uc?id=1S6GkQcDq8W0ThaUeZ708UegHIRiVWzTo&confirm=t"
+
+```
+```
+!python predict.py model='best.pt' source='demo.mp4'
+```
 
 ### RESULTS
 
